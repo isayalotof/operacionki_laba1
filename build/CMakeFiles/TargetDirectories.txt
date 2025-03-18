@@ -1,0 +1,3 @@
+/home/isayalot/myproj/build/CMakeFiles/HelloWorld.dir
+/home/isayalot/myproj/build/CMakeFiles/edit_cache.dir
+/home/isayalot/myproj/build/CMakeFiles/rebuild_cache.dir
